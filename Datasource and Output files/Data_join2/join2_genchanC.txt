@@ -1,0 +1,5 @@
+Hourly_Sports,DEF
+Hot_Show,XYZ
+Almost_Talking,CAB
+Dumb_News,MAN
+PostModern_Show,BAT

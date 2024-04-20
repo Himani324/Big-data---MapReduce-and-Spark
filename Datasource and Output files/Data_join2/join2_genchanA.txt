@@ -1,0 +1,5 @@
+Hourly_Sports,DEF
+Baked_Talking,BAT
+PostModern_Sports,XYZ
+Loud_Show,CNO
+Almost_Talking,ABC

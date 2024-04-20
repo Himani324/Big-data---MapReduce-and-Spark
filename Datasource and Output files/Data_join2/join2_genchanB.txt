@@ -1,0 +1,5 @@
+Hourly_Sports,DEF
+Hot_Show,CNO
+Almost_Talking,MAN
+Dumb_News,BOB
+PostModern_Show,NOX
